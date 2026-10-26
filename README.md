@@ -16,7 +16,7 @@ An AI-powered investment advisor built with Streamlit that:
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/yourusername/smart-investment-advisor.git
+git clone https://github.com/farahnas/smart-investment-advisor.git
 cd smart-investment-advisor
 pip install -r requirements.txt
 streamlit run main.py
